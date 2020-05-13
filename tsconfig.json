@@ -1,0 +1,8 @@
+// Use project references (https://github.com/RyanCavanaugh/project-references-demo) to set up fast compilation
+// for a monorepo where projects depend on each other (https://github.com/microsoft/TypeScript/issues/17611).
+{
+  "files": [],
+  "references": [
+    { "path": "./project1" }
+  ]
+}
